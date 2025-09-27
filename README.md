@@ -8,7 +8,7 @@
 - 🌱 Currently learning **React.js**, **Node.js**, and exploring the **MERN stack**
 - 🛠️ Passionate about building interactive and responsive web applications
 - 🔍 Always eager to explore new technologies and take on new challenges
-- 📫 Reach me at: **shekhmohibur02@gmail.com**
+- 📫 Reach me at: **mohibur.rahman2003@gmail.com**
 
 ---
 

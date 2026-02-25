@@ -1,6 +1,8 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=shekh%20mohibur%20rahman&fontSize=44&fontColor=00eaff&fontAlignY=50&desc=Ongoing full-stack%20web%20developer&descAlignY=70&descSize=16&animation=fadeIn" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=shekh%20mohibur%20rahman&fontSize=44&fontColor=00eaff&fontAlignY=45&desc=full-stack%20web%20developer&descAlignY=65&descSize=16&animation=fadeIn"
+  />
 </p>
 
 <p align="center">

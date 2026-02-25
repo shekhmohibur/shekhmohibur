@@ -81,17 +81,21 @@ I focus on:
 ---
 
 ## 🔥 Streak Showcase
-<p align="center">
+<p align="">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shekhmohibur&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
- 
-[![Shekh Mohibur Rahman](https://github-readme-stats-fast.vercel.app/api?username=shekhmohibur&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/shekhmohibur/github-readme-stats#gh-dark-mode-only)
-
+<p align="">
+  <a href="https://github.com/shekhmohibur">
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api?username=shekhmohibur&show_icons=true&theme=dark"
+      alt="Shekh Mohibur Rahman GitHub Stats"
+    />
+  </a>
+</p>
 ## 📈 Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shekhmohibur&theme=tokyo-night&hide_border=true"/>

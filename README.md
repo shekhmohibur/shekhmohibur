@@ -1,28 +1,31 @@
-<!-- Banner -->
+<!-- ===================== HEADER BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Mohib&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=shekh%20mohibur%20rahman&fontSize=44&fontColor=00eaff&fontAlignY=50&desc=Ongoing full-stack%20web%20developer&descAlignY=70&descSize=16&animation=fadeIn" />
 </p>
 
-<h2 align="center">Full-Stack Web Developer</h2>
 <p align="center">
-React • Next.js • Node.js • MongoDB • Firebase
+React • Next.js • Node.js • MongoDB • Firebase • Tailwind CSS
+</p>
+
+<p align="center">
+  <b>Building scalable, production-ready web applications with clean architecture.</b>
 </p>
 
 ---
 
 ## 👨‍💻 Professional Summary
 
-I am a **results-driven Full-Stack Web Developer** with strong experience in building  
-**modern, scalable, and high-performance web applications**.
+I am a **Full-Stack Web Developer** specializing in **modern JavaScript frameworks** and  
+**scalable web architectures**.
 
 I focus on:
 - Clean & maintainable code  
-- Performance & scalability  
+- Performance-driven development  
 - User-centric UI/UX  
-- Production-ready architecture  
+- Real-world, production-level applications  
 
-💬 I have **excellent English communication skills**, making me comfortable working with  
-**remote teams, international clients, and professional environments**.
+💬 I have **strong English communication skills**, enabling smooth collaboration with  
+**international clients, distributed teams, and remote work environments**.
 
 ---
 
@@ -30,43 +33,44 @@ I focus on:
 
 ### 🌐 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" />
 </p>
 
-- HTML5 (Semantic & Accessible)
-- CSS3 (Flexbox, Grid, Responsive Design)
-- JavaScript (ES6+)
-- React.js (Hooks, Routing, Component Architecture)
-- Next.js (SSR, API Routes, Auth)
-- Tailwind CSS (Modern UI)
+- Semantic HTML5 & accessible layouts  
+- Responsive CSS (Flexbox, Grid)  
+- JavaScript (ES6+)  
+- React.js (Hooks, Routing, State Management)  
+- Next.js (SSR, API Routes, Authentication)  
+- Tailwind CSS (Clean & scalable UI systems)
 
 ---
 
 ### ⚙️ Backend & Database
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase" />
 </p>
 
-- Node.js (REST APIs, Authentication)
-- MongoDB (CRUD, Schema Design)
-- Firebase (Auth, Hosting, Realtime DB)
+- Node.js (REST APIs, Authentication, Business Logic)  
+- MongoDB (Schema design, CRUD, optimization)  
+- Firebase (Auth, Hosting, Realtime Database)
 
 ---
 
 ### 🛠 Tools & Workflow
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-- Git & GitHub
-- REST APIs & JSON
-- Clean Architecture
-- Debugging & Optimization
-- Mobile-First Design
+- Git & GitHub (professional workflows)  
+- RESTful APIs & JSON  
+- Clean architecture & best practices  
+- Debugging & performance optimization  
+- Mobile-first & responsive development
 
 ---
 
 ## 🚀 What I Build
+
 ✔ Full-Stack Web Applications  
 ✔ SaaS Platforms  
 ✔ Authentication Systems  
@@ -76,17 +80,19 @@ I focus on:
 
 ---
 
-## 📊 GitHub Stats
-
+## 🔥 Streak Showcase
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shekhmohibur&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekhmohibur&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shekhmohibur&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## 📊 GitHub Stats
+<p align="center">
+ 
+[![Shekh Mohibur Rahman](https://github-readme-stats-fast.vercel.app/api?username=shekhmohibur&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/shekhmohibur/github-readme-stats#gh-dark-mode-only)
 
+## 📈 Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shekhmohibur&theme=tokyo-night&hide_border=true"/>
 </p>
@@ -96,23 +102,20 @@ I focus on:
 ## 🌍 Communication & Collaboration
 - ✅ Fluent English communication  
 - ✅ Remote-work ready  
-- ✅ Clear documentation  
-- ✅ Team-oriented mindset  
-- ✅ Deadline focused  
+- ✅ Clear documentation & meaningful commits  
+- ✅ Team-oriented and deadline-driven  
 
 ---
 
-## 📫 Contact & Links
-- 🌐 Portfolio: *Coming soon*
-- 📧 Email: *Add your professional email*
-- 💼 GitHub: *You’re already here*
-
----
+## 📫 Contact & Opportunities
+- 🌐 Portfolio: [https://smrx.vercel.app](https://smrx.vercel.app/) 
+- 📧 Email: [mohibur.rahman2003@gmail.com](mailto:mohibur.rahman2003@gmail.com)
+- 💼 GitHub: **shekhmohibur**
 
 <p align="center">
 ⭐ Open to full-time, remote, and freelance opportunities
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
+<!-- ===================== FOOTER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=&animation=fadeIn" />
 </p>

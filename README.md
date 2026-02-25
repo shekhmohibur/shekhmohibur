@@ -1,70 +1,118 @@
-# 👋 Hi, I'm Mohib  
-### Full-Stack Web Developer | React • Next.js • Node.js
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Mohib&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-🚀 I’m a passionate **Full-Stack Web Developer** focused on building **scalable, clean, and user-centric web applications** using modern web technologies.
-
-💬 I have **strong English communication skills**, which allows me to collaborate effectively with **international teams, clients, and remote work environments**.
+<h2 align="center">Full-Stack Web Developer</h2>
+<p align="center">
+React • Next.js • Node.js • MongoDB • Firebase
+</p>
 
 ---
 
-## 🧠 Tech Stack & Expertise
+## 👨‍💻 Professional Summary
+
+I am a **results-driven Full-Stack Web Developer** with strong experience in building  
+**modern, scalable, and high-performance web applications**.
+
+I focus on:
+- Clean & maintainable code  
+- Performance & scalability  
+- User-centric UI/UX  
+- Production-ready architecture  
+
+💬 I have **excellent English communication skills**, making me comfortable working with  
+**remote teams, international clients, and professional environments**.
+
+---
+
+## 🧠 Tech Stack
 
 ### 🌐 Frontend
-- **HTML5** – Semantic, accessible markup
-- **CSS3** – Responsive layouts, Flexbox, Grid
-- **JavaScript (ES6+)** – Clean, modular, scalable code
-- **React.js** – Component-based architecture, hooks, routing
-- **Next.js** – Server-side rendering, API routes, authentication
-- **Tailwind CSS** – Modern, responsive, utility-first UI design
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" />
+</p>
+
+- HTML5 (Semantic & Accessible)
+- CSS3 (Flexbox, Grid, Responsive Design)
+- JavaScript (ES6+)
+- React.js (Hooks, Routing, Component Architecture)
+- Next.js (SSR, API Routes, Auth)
+- Tailwind CSS (Modern UI)
+
+---
 
 ### ⚙️ Backend & Database
-- **Node.js** – RESTful APIs, authentication, business logic
-- **MongoDB** – NoSQL database design, CRUD operations
-- **Firebase** – Authentication, real-time database, hosting
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase" />
+</p>
+
+- Node.js (REST APIs, Authentication)
+- MongoDB (CRUD, Schema Design)
+- Firebase (Auth, Hosting, Realtime DB)
 
 ---
 
-## 🛠 Tools & Workflow
-- Git & GitHub (version control & collaboration)
+### 🛠 Tools & Workflow
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+- Git & GitHub
 - REST APIs & JSON
-- Responsive & Mobile-First Design
-- Clean Code & Best Practices
-- Problem Solving & Debugging
+- Clean Architecture
+- Debugging & Optimization
+- Mobile-First Design
 
 ---
 
-## 💼 What I Can Build
+## 🚀 What I Build
 ✔ Full-Stack Web Applications  
 ✔ SaaS Platforms  
 ✔ Authentication Systems  
 ✔ Dashboards & Admin Panels  
 ✔ Modern Landing Pages  
-✔ REST APIs  
+✔ RESTful APIs  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
 ## 🌍 Communication & Collaboration
-- ✅ Fluent English communication
-- ✅ Comfortable with remote work
-- ✅ Clear documentation & meaningful commits
-- ✅ Team-friendly and deadline-oriented
+- ✅ Fluent English communication  
+- ✅ Remote-work ready  
+- ✅ Clear documentation  
+- ✅ Team-oriented mindset  
+- ✅ Deadline focused  
 
 ---
 
-## 📈 Current Focus
-- Building production-ready **Next.js applications**
-- Improving performance, scalability & UX
-- Writing clean, maintainable code
-- Growing as a professional **Full-Stack Engineer**
+## 📫 Contact & Links
+- 🌐 Portfolio: *Coming soon*
+- 📧 Email: *Add your professional email*
+- 💼 GitHub: *You’re already here*
 
 ---
 
-## 📫 Let’s Connect
-- 💼 GitHub: *You’re already here 😉*
-- 🌐 Portfolio: *(Add when ready)*
-- 📧 Email: *(Add your professional email)*
+<p align="center">
+⭐ Open to full-time, remote, and freelance opportunities
+</p>
 
----
-
-⭐ **If you like my work, feel free to star my repositories or reach out.  
-I’m always open to exciting opportunities and collaborations!**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
+</p>

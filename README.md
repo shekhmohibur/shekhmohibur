@@ -1,25 +1,26 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A0F1D,50:0F172A,100:1E293B&text=SHEKH%20MOHIBUR%20RAHMAN&fontSize=38&fontColor=38BDF8&fontAlignY=42&desc=Full-Stack%20Software%20Engineer&descAlignY=62&descSize=15&descColor=94A3B8&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=gradient&customColorList=6,11,15,20&text=Shekh%20Mohibur%20Rahman&fontSize=32&fontColor=00F0FF&fontAlignY=50&desc=Software%20Engineer%20%7C%20Full-Stack%20Architect&descAlignY=75&descSize=14&descColor=94A3B8&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <b>TypeScript</b> • <b>React.js</b> • <b>Next.js</b> • <b>Node.js</b> • <b>PostgreSQL/MongoDB</b> • <b>System Architecture</b>
+  <code>TypeScript</code> • <code>React.js</code> • <code>Next.js 15</code> • <code>Node.js</code> • <code>PostgreSQL</code> • <code>System Design</code>
 </p>
 
 <p align="center">
-  <em>Engineering robust, scalable enterprise web applications with high-performance architectures.</em>
+  <a href="https://mohibur.trivora.top">🌐 <b>Live Portfolio</b></a> &nbsp;&bull;&nbsp;
+  <a href="mailto:mohibur.rahman2003@gmail.com">📧 <b>Direct Email</b></a> &nbsp;&bull;&nbsp;
+  <a href="https://github.com/shekhmohibur">🐙 <b>GitHub</b></a>
 </p>
 
 ---
 
-## 🏛️ Executive Summary
+## ⚡ Executive Profile
 
-Results-driven **Full-Stack Software Engineer** specializing in modern component-driven frontends and resilient microservices architectures. Adept at translating complex business requirements into high-performance, maintainable web systems.
+> **Full-Stack Software Engineer** focused on building high-performance, resilient, and enterprise-grade web architectures. Combines deep modern JavaScript/TypeScript ecosystem mastery with precision engineering to scale complex distributed applications.
 
-* **Engineering Focus:** Clean domain-driven design, state management optimization, web security, and low-latency API integration.
-* **Global Collaboration:** Exceptional technical articulation and cross-functional leadership, structured for high-accountability remote environments and distributed engineering squads.
-
----
-
-## ⚙️ Core Technical Architecture
+```mermaid
+graph TD
+    A[Client Tier / Next.js] -->|Secure REST / GraphQL| B[API Gateway / Node.js]
+    B -->|Microservices / Business Logic| C[(PostgreSQL / MongoDB)]
+    B -->|Caching / State| D[(Redis Cluster)]

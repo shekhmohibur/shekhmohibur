@@ -1,125 +1,25 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=shekh%20mohibur%20rahman&fontSize=44&fontColor=00eaff&fontAlignY=45&desc=Ongoing%20Full-Stack%20Web%20Developer&descAlignY=65&descSize=16&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A0F1D,50:0F172A,100:1E293B&text=SHEKH%20MOHIBUR%20RAHMAN&fontSize=38&fontColor=38BDF8&fontAlignY=42&desc=Full-Stack%20Software%20Engineer&descAlignY=62&descSize=15&descColor=94A3B8&animation=fadeIn" />
 </p>
 
 <p align="center">
-React • Next.js • Node.js • MongoDB • Firebase • Tailwind CSS
+  <b>TypeScript</b> • <b>React.js</b> • <b>Next.js</b> • <b>Node.js</b> • <b>PostgreSQL/MongoDB</b> • <b>System Architecture</b>
 </p>
 
 <p align="center">
-  <b>Building scalable, production-ready web applications with clean architecture.</b>
+  <em>Engineering robust, scalable enterprise web applications with high-performance architectures.</em>
 </p>
 
 ---
 
-## 👨‍💻 Professional Summary
+## 🏛️ Executive Summary
 
-I am a **Full-Stack Web Developer** specializing in **modern JavaScript frameworks** and  
-**scalable web architectures**.
+Results-driven **Full-Stack Software Engineer** specializing in modern component-driven frontends and resilient microservices architectures. Adept at translating complex business requirements into high-performance, maintainable web systems.
 
-I focus on:
-- Clean & maintainable code  
-- Performance-driven development  
-- User-centric UI/UX  
-- Real-world, production-level applications  
-
-💬 I have **strong English communication skills**, enabling smooth collaboration with  
-**international clients, distributed teams, and remote work environments**.
+* **Engineering Focus:** Clean domain-driven design, state management optimization, web security, and low-latency API integration.
+* **Global Collaboration:** Exceptional technical articulation and cross-functional leadership, structured for high-accountability remote environments and distributed engineering squads.
 
 ---
 
-## 🧠 Tech Stack
-
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" />
-</p>
-
-- Semantic HTML5 & accessible layouts  
-- Responsive CSS (Flexbox, Grid)  
-- JavaScript (ES6+)  
-- React.js (Hooks, Routing, State Management)  
-- Next.js (SSR, API Routes, Authentication)  
-- Tailwind CSS (Clean & scalable UI systems)
-
----
-
-### ⚙️ Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase" />
-</p>
-
-- Node.js (REST APIs, Authentication, Business Logic)  
-- MongoDB (Schema design, CRUD, optimization)  
-- Firebase (Auth, Hosting, Realtime Database)
-
----
-
-### 🛠 Tools & Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-- Git & GitHub (professional workflows)  
-- RESTful APIs & JSON  
-- Clean architecture & best practices  
-- Debugging & performance optimization  
-- Mobile-first & responsive development
-
----
-
-## 🚀 What I Build
-
-✔ Full-Stack Web Applications  
-✔ SaaS Platforms  
-✔ Authentication Systems  
-✔ Dashboards & Admin Panels  
-✔ Modern Landing Pages  
-✔ RESTful APIs  
-
----
-
-## 🔥 Streak Showcase
-<p align="">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shekhmohibur&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="">
-  <a href="https://github.com/shekhmohibur">
-    <img
-      src="https://github-readme-stats-fast.vercel.app/api?username=shekhmohibur&show_icons=true&theme=dark"
-      alt="Shekh Mohibur Rahman GitHub Stats"
-    />
-  </a>
-</p>
-## 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shekhmohibur&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🌍 Communication & Collaboration
-- ✅ Fluent English communication  
-- ✅ Remote-work ready  
-- ✅ Clear documentation & meaningful commits  
-- ✅ Team-oriented and deadline-driven  
-
----
-
-## 📫 Contact & Opportunities
-- 🌐 Portfolio: [https://smrx.vercel.app](https://smrx.vercel.app/) 
-- 📧 Email: [mohibur.rahman2003@gmail.com](mailto:mohibur.rahman2003@gmail.com)
-- 💼 GitHub: **shekhmohibur**
-
-<p align="center">
-⭐ Open to full-time, remote, and freelance opportunities
-</p>
-
-<!-- ===================== FOOTER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=&animation=fadeIn" />
-</p>
+## ⚙️ Core Technical Architecture
